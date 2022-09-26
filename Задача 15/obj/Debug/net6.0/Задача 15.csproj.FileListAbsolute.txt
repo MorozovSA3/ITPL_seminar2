@@ -1,0 +1,15 @@
+C:\Users\sermo\Desktop\Учеба и работа\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 2\Задача 15\obj\Debug\net6.0\Задача 15.csproj.AssemblyReference.cache
+C:\Users\sermo\Desktop\Учеба и работа\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 2\Задача 15\obj\Debug\net6.0\Задача 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sermo\Desktop\Учеба и работа\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 2\Задача 15\obj\Debug\net6.0\Задача 15.AssemblyInfoInputs.cache
+C:\Users\sermo\Desktop\Учеба и работа\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 2\Задача 15\obj\Debug\net6.0\Задача 15.AssemblyInfo.cs
+C:\Users\sermo\Desktop\Учеба и работа\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 2\Задача 15\obj\Debug\net6.0\Задача 15.csproj.CoreCompileInputs.cache
+C:\Users\sermo\Desktop\Учеба и работа\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 2\Задача 15\bin\Debug\net6.0\Задача 15.exe
+C:\Users\sermo\Desktop\Учеба и работа\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 2\Задача 15\bin\Debug\net6.0\Задача 15.deps.json
+C:\Users\sermo\Desktop\Учеба и работа\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 2\Задача 15\bin\Debug\net6.0\Задача 15.runtimeconfig.json
+C:\Users\sermo\Desktop\Учеба и работа\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 2\Задача 15\bin\Debug\net6.0\Задача 15.dll
+C:\Users\sermo\Desktop\Учеба и работа\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 2\Задача 15\bin\Debug\net6.0\Задача 15.pdb
+C:\Users\sermo\Desktop\Учеба и работа\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 2\Задача 15\obj\Debug\net6.0\Задача 15.dll
+C:\Users\sermo\Desktop\Учеба и работа\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 2\Задача 15\obj\Debug\net6.0\refint\Задача 15.dll
+C:\Users\sermo\Desktop\Учеба и работа\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 2\Задача 15\obj\Debug\net6.0\Задача 15.pdb
+C:\Users\sermo\Desktop\Учеба и работа\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 2\Задача 15\obj\Debug\net6.0\Задача 15.genruntimeconfig.cache
+C:\Users\sermo\Desktop\Учеба и работа\GeekBrains\Знакомство с языками программирования\Семинары\Семинар 2\Задача 15\obj\Debug\net6.0\ref\Задача 15.dll
